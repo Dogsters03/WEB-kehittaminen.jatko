@@ -44,4 +44,34 @@ Ctrl + / ja jos haluaa useamman rivin niin sitten se kohta maalataan
 - Const on suositelluin käytettäväksi, koska se on luotettavampi ja lohkon sisäisen näkyvyyden vuoksi (Block Scope)
 
 ## Video 11
-- 
+- JavaScriptissä Sting on merkkijono joka on tekstin esittämisen tietotyyppi
+- String Concatenation voi kaksi ja useamman merkkijonon yhdistää pidemmäksi merkkijonoksi, plus operaattori (+) on yksinkertaisin tapa liittää kaksi jonoa toisiinsa
+
+## Video 12
+- Kun srtingien väliin kirjoittaa sanoja on hyvä jättää sanan loppuun välilyönti, muuten se tulostaa sanat yhteen
+
+## Video 13
+- Template Literals on JavaScriptin tapa käsitellä merkkijonoa, ne kirjoitetaan backtickien (`) sisään tavallisten lainausmerkkien sijasta
+- Tällä voi suorittaa laskutoimtuksia tai kutsua funktiota suoraan ${} merkkien sisällä
+
+## Video 14
+- Template Literals tunnistaa näistä merkeistä ` `
+
+## Video 15
+- JavaScript on yksinkertaisemi ja joustavampi ohjelmointi kieli kuin mm. C# ja Java 
+- Checking Type:ja on typeofjoka palauttaa merkkijonon jonka tietotyyppi on primitiivinen ja instanceof joka palauttaa totuusarvon jos arvo vastaa tietotyyppiä
+
+## Video 16
+- typeof operaattorille pitää olla varovainen koska se ei kykene erottamaan eri tyyppisiä objekteja toisistaan esim. listat (array)
+
+## Video 17
+-
+
+## Video 18
+-
+
+## Video 19
+-
+
+## Video 20
+-
