@@ -65,13 +65,62 @@ Ctrl + / ja jos haluaa useamman rivin niin sitten se kohta maalataan
 - typeof operaattorille pitää olla varovainen koska se ei kykene erottamaan eri tyyppisiä objekteja toisistaan esim. listat (array)
 
 ## Video 17
--
+- JavaScriptissä matematiikka tehdään perusoperaattoreilla (+, -. *, /)
 
 ## Video 18
--
+- JavaScriptissä ++ merkki on inkermenttioperaattori joka kasvattaa muuttujan arvoa yhdellä
+- merkki -- on dekrementtioperaattori joka vähentää muuttujan arvoa yhdellä 
+- Näitä kahta tapaa käytetään ohjelmoinnissa jatkuvasti kun lukuja pitää päivittää automaattisesti
 
 ## Video 19
--
+- Kun halutaan stringi muuttaa numeroksi käytetään joko parseInt() tätä käytetään kokonais numeroissa, parseFloat() tätä käytetään desimaali numeroissa
+- Kun halutaan numero stringiksi käytetään toString()
 
 ## Video 20
+- Jos parseInt() tai parseFloat() laitetaan kirjaimia se tulostaa NaN
+
+## Video 21
+- Throwing exceptions tarkoittaa ohjelman suorituksen keskeyttämistä hallitusti kun kohdataam odottamaton tilanne
+- JavaScriprissä error:ja käsitellään try, catch ja finally näiden avulla ohjelma voi jatkaa toimintaansa
+
+## Video 22
+- logError eli virheen kirjaaminen tehtävänä on tallentaa tieto tapahtuneesta virheestä joko selaimen konsoliin, tiedostoon tai ulkoiseen palveluun
+
+## Video 23
+- Kun luodaan uusi päivämäärä objekti tehdään const now = new Date(), sitten määritellään vuosi, kuukausi ja päivä myös määritellään tunnit, minuutit ja sekunnit
+- Kuukausien laskeminen alkaa 0:sta (tammikuu on 0)
+
+## Video 24
+- console.log(now); antaa meille UTC ajan, console.log(win95Launch); antaa meille ajan joka on aikaisemmin määritelty
+
+## Video 25
+- Kun katsotaan yhtäsuuria arvoja ja tietotyyppiä suositellaan käyttävän === 
+- Kun katsotaan eriarvoisia arvoja ja tietotyyppiä suositellaan käyttävän !==
+
+## Video 26
+- JavaScriptissä kun käytetään if tai else lausekkeita niin silloin ei tarvita {} mutta pitää olla varovainen koska se voi antaa virheellisiä tuloksia
+
+## Video 27
+- 
+
+## Video 28
+- 
+
+## Video 29
 -
+
+## Video 30
+- 
+
+## Video 31
+-
+
+## Video 32
+-
+
+## Video 33
+-
+
+## Video 34
+- 
+
