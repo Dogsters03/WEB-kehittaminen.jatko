@@ -95,32 +95,60 @@ Ctrl + / ja jos haluaa useamman rivin niin sitten se kohta maalataan
 
 ## Video 25
 - Kun katsotaan yhtäsuuria arvoja ja tietotyyppiä suositellaan käyttävän === 
-- Kun katsotaan eriarvoisia arvoja ja tietotyyppiä suositellaan käyttävän !==
+- Kun katsotaan eriarvoisia arvoja ja tietotyyppiä suositellaan käyttävän tätä !==
 
 ## Video 26
 - JavaScriptissä kun käytetään if tai else lausekkeita niin silloin ei tarvita {} mutta pitää olla varovainen koska se voi antaa virheellisiä tuloksia
 
 ## Video 27
-- 
+- JavaScriptisä stringit ovat case sensitive eli ovat aian kirjainkoosta riippuvaisia, tämä tarkoittaa että vertyailut ja metodit huomioivat eron pienten ja suurten kirjainten välilä
+- Switch -lauseketta käytetään suorittamaan eri koodilohkoja sen persutella mihin arvoon annettu öauseke täsmää (luotettavampi kuin if ja else ketjut), tätä käytetään kun verrataan yhtä muuttuujaa kiinteään arvoon
 
 ## Video 28
-- 
+- toUpperCase -metodi muuttaatekstin isoiksi kirjiamiksi, koska stringit ovat muuttumattomia metodi ei muuta alkuperäistä tekstiä vaan palauttaa uuden merkkijononon
+- Kaksi pystyviivaa (||) on looginen TAI-operaattori, sitä käytetään pääasiasa kahden arvon vertailuun tai oletusarvojen asettamiseen
 
 ## Video 29
--
+- Array eli taulukko on lista tai arvojen kokoelma, jokaisella arvolla on indexi
 
 ## Video 30
-- 
+- JacaScriptissä taulukon kokoa ei ole pakko määreitellän etukäteen ja se kasvaa automaattisesti siten kuin lisäät sinne tavaraa
 
 ## Video 31
--
+- Array luomisen jälkeen siihen voi lisätä osoittamalla arvoja tiettyihin indekseihin, mikä ylikirjoittaa olemassa olevat arvot, ja kiinteänpituisen taulukoiden kohdalla pituuden seuraaminen on tärkeää
 
 ## Video 32
--
+- Indeksejä käytetään tiettyjen arvojen löytämiseen ja käyttämiseen
+- Taulukossa on tärkeää että siihen pystyy lisäämään arvoja
 
 ## Video 33
--
+- array.push(values) lisää yhden tai useammman arvon taulukon loppuun ja palauttaa sen uuden pituuden, array.pop() poistaa yhden tai useamman arvon tauöukon alkuun ja palauttaa sen uuden pituuden
 
 ## Video 34
+- array.shift() poistaa arvon tauöukon alusta ja palauttaa poistetun arvon, array.unshift(values) lisää yhden tai useamman arvon taulukon alkuun ja palauttaa sen uuden pituuden
+- Concat yhdistää kaksi taulukkoa luodakseen uuden taulukon
+
+## Video 35
+- 
+
+## Video 36
+- 
+
+## Video 37
+- 
+
+## Video 38
+- 
+
+## Video 39
+- 
+
+## Video 40 
+- 
+
+## Video 41
+- 
+
+## Video 42
 - 
 
