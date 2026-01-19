@@ -129,10 +129,11 @@ Ctrl + / ja jos haluaa useamman rivin niin sitten se kohta maalataan
 - Concat yhdistää kaksi taulukkoa luodakseen uuden taulukon
 
 ## Video 35
-- 
+- JavaScript looks (silmukat) ovat työkaluja joilla suoritettaan tiettyä koodilohjoa toistuvasti kunnes haluttu ehto täyttyy
+- yleisiä loopeja on while, for, for ... of
 
 ## Video 36
-- 
+- While loops on hyviä kun ei tiedeetä kuinka monta kertaa koodi on suoritettava, for loops käytetään kun tiedetään toistojen määrä, for ... of loops on moderni ja selkeä tapa käydä läpi iteroitavien kohteiden arvot
 
 ## Video 37
 - 
@@ -150,5 +151,11 @@ Ctrl + / ja jos haluaa useamman rivin niin sitten se kohta maalataan
 - 
 
 ## Video 42
+- 
+
+## Video 43
+- 
+
+## Video 44
 - 
 
