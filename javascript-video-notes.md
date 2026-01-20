@@ -136,26 +136,48 @@ Ctrl + / ja jos haluaa useamman rivin niin sitten se kohta maalataan
 - While loops on hyviä kun ei tiedeetä kuinka monta kertaa koodi on suoritettava, for loops käytetään kun tiedetään toistojen määrä, for ... of loops on moderni ja selkeä tapa käydä läpi iteroitavien kohteiden arvot
 
 ## Video 37
-- 
+- JavaScriptissä funktiot ovat koodilojkoja jotka on suunniteltu suorittamaan tietty tehtävä
 
 ## Video 38
-- 
+- JavaScrpitissä naming conventiossa voi käyttää toimivia aakkosia, numeroita, dollarin merkkiä ja alaviivaa mutta ei muita erikoismerkkejä
 
 ## Video 39
-- 
+- Arrow funktiota (=>) käytetään tekemään koodista lyhyempää ja varmistaman että this-avainsana viittaa oikeaan paikkaan esim. listoja käsitellessä ja ajastimessa
 
 ## Video 40 
-- 
+- Voi olla useira rivejä joisaa käytetään fat arrowia (=>), mutta silloin pitää käytää return kutsua
 
 ## Video 41
-- 
+- JSON (JavaScript Object Notation) on JavaScpritin objektisyntaksiin perustuva kevyt tiedonsiirtomuoto
 
 ## Video 42
-- 
+- JSON.stringify() on JavaScriptin metodi jolla muutettaan JavaScript-olio tai arvo JSON muotoiseksi merkkijonoksi jos halutaan toisinpäin eli JSON-muotoinen merkkijono Javascript olioksi käytetään JSON.parse() 
 
 ## Video 43
-- 
+- JavaScript -oliot (objects) ovat itsenäisiä kokonaisuuksia joita käytetään toisiinsa liittyvän tiedon ja toiminnallisuuden tallentamiseen. Ne koostuvat avain-arvo-pareista joissa avain on merkkijono ja arvo voi olla mitä tahansa tietotyyppiä
 
 ## Video 44
-- 
+- Olio luodaan yleisimmin joko suoraan aaltosulkeilla määrittelevänä olioliteraalina tai käyttämällä class-rakennetta ja new-avainsana jos tarvitaan useita samankaltaisia olioita
+
+## Video 45
+- Callback (takaisinkutsu) on funktio joka annetaan argumenttina toiselle funtiolle ja joka suortetaan tämän ulomman funktion sisällä tietyn tehtävän päätteeksi. Tämän suurin ongelma on koodin hallittavuus ja luotettavuus, erityisesti sovelluksen monimutkaistuessa
+
+## Video 46
+- Promise (lupaus) on objekti, joka on asynkroninen operaation lopullista onnistumista tai epäonnistumista ja sen tuottamaa arvoa
+
+## Video 47
+- Async/await avulla asynkronista koodia voidaan kirjoittaa näyttämään ja käyttäytymään samalla tavalla kuin perinteinen synkroninen koodi
+
+## Video 48
+- Promise on asynkroninen operaatio, Async tekee funktiosta "lupaus-pohjaisen" se käärii paluuarvon aina lupaukseen ja await on taukopainike joak käskee koodin odottaa kunnes lupaus on valmis ja antaa sitten sen tuloksen suoraan käyttöösi
+
+## Video 49
+- Package on koodikokoelma tai projekti joka sisältää koodia ja sen kuvailevan package.json tiedoston. Pakettien avulla kehittäjät voivat jakaa, käyttää udelleen ja hallita koodimoduuleja omissa projekteissaan
+- NPM on maailman suurin ohjelmistoreksiteri ja JavaScrip-ympäristö Node.js:n oletusarvinen paketinahllintatyökalu. Sen avulla kehittäjät voivat jakaa, asentaa ja hallita valmiita koodikirjastoja projekteissaan
+
+## Video 50
+- npm voi ladata kirjoittamalla terminaaliin npm run format, sen jälkeen ohjelma ajetaan komennolla npm start
+
+## Video 51
+- Seuraava askel olisi tehdä itse asioita ja videon alla linkeistä saa apua seuraavan askeleen ottamiseen
 
